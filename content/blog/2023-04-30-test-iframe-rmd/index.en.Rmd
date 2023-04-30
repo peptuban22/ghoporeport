@@ -1,0 +1,20 @@
+---
+title: test iframe Rmd
+author: ''
+date: '2023-04-30'
+slug: test-iframe-rmd
+categories:
+  - programming
+tags:
+  - R Markdown
+---
+
+test iframe
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="600"
+      height="350"
+      src="https://app.powerbi.com/view?r=eyJrIjoiOTA1M2M1NTEtY2Q0Ni00NmQ1LWJlNWMtNzY1YWNkNmQ2ZmZiIiwidCI6IjUzYjkyMTJhLTAyMDEtNGZlMS04OTVkLTg1NWRjMjE2MDJjYyIsImMiOjEwfQ%3D%3D">
+  </iframe>
+</div>
