@@ -350,9 +350,9 @@ params:
   twitter_site: GoHugoIO
   viewMorePostLink: /blog/
   widgets:
-    categories: yes
-    search: yes
-    tags: yes
+    categories: no
+    search: no
+    tags: no
 permalinks:
   blog: /blog/:year/:month/:day/:filename/
 taxonomies:
